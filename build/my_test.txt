@@ -1,0 +1,1 @@
+This is just a placeholder file. It was required to create build folder to deploy the app on "Render" cloud service.
